@@ -1,9 +1,17 @@
-# HQs
+# Organize suas HQs no Drive
 
-Histórias em quadrinhos organizadas por coleção e edição.
+Crie uma pasta por coleção e inclua o número da edição no nome do arquivo.
 
-**Ainda não há obras publicadas nesta categoria.** Os downloads aparecerão aqui após a verificação da autorização de distribuição e da compatibilidade com o Nuvori.
+Exemplo fictício de caminho na sua conta:
 
-Cada obra terá uma ficha com autoria, idioma, formato, tamanho, licença e link para baixar.
+```text
+Meu Acervo/HQs/Colecao Exemplo/Colecao Exemplo - Ed 001.pdf
+```
 
-[Voltar ao Acervo Nuvori](../README.md) · [Sugerir uma obra](../CONTRIBUTING.md)
+Preserve a extensão real do arquivo. A categoria não exige um formato específico: use um formato compatível com a versão do Nuvori instalada e arquivos que você tenha direito de armazenar e ler.
+
+Depois de enviar os arquivos, selecione a pasta principal do acervo no Nuvori ou use **Atualizar estante** se ela já estiver conectada.
+
+Esta página contém apenas orientações de organização; não disponibiliza obras para download.
+
+[Ver o passo a passo do Drive](../docs/guia-google-drive.md) · [Voltar à apresentação](../README.md)
